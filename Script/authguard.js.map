@@ -1,0 +1,1 @@
+{"version":3,"file":"authguard.js","sourceRoot":"","sources":["authguard.ts"],"names":[],"mappings":"AAAA,YAAY,CAAC;AAEb,CAAC,GAAG,EAAE;IACF,IAAI,CAAC,cAAc,CAAC,OAAO,CAAC,MAAM,CAAC,EAAE,CAAC;QAClC,QAAQ,CAAC,IAAI,GAAG,YAAY,CAAC;IACjC,CAAC;AACL,CAAC,CAAC,EAAE,CAAC"}
